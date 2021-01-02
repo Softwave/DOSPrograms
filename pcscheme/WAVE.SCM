@@ -1,11 +1,11 @@
-; Wave.s, graph of a sin wave using pcscheme on MS-DOS  
+; Wave.scm, graph of a sin wave using pcscheme on MS-DOS  
 
 (init-graph)
 
 ; Only if we're loading with the editor 
 (define (return-ed)
   (close-graph)
-  (ed "wave.s"))
+  (ed "wave.scm"))
 
 
 ; Some variables  
