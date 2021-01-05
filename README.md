@@ -8,6 +8,6 @@ Various programs for MS-DOS in a variety of languages.
 
 WAVE.SCM (pcscheme)
 
-![Image of orbs.c](https://raw.githubusercontent.com/Softwave/DOSPrograms/main/screenshots/wave.png)
+![Image of orbs.c](https://raw.githubusercontent.com/Softwave/DOSPrograms/main/screenshots/orbs2.png)
 
 Orbs.c (C, DJGPP/Allegro)
